@@ -1,4 +1,4 @@
-/**
+d/**
  * @name midnight
  * @description A darkened discord theme.
  * @author refact0r
@@ -37,10 +37,10 @@
 	/* text colors */
 	--text-0: white; /* text on colored elements */
 	--text-1: var(--text-2); /* other normally white text */
-	--text-2: hsl(270, 25%, 70%); /* headings and important text */
-	--text-3: hsl(270, 35%, 80%); /* normal text */
-	--text-4: hsl(270, 35%, 80%); /* icon buttons and channels */
-	--text-5: hsl(270, 25%, 70%); /* muted channels/chats and timestamps */
+	--text-2: hsl(348, 25%, 70%); /* headings and important text */
+	--text-3: hsl(348, 35%, 80%); /* normal text */
+	--text-4: hsl(348, 35%, 80%); /* icon buttons and channels */
+	--text-5: hsl(348, 25%, 70%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
 	--bg-1: hsl(220, 15%, 20%); /* dark buttons when clicked */
