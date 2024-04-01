@@ -32,10 +32,10 @@
 	--text-5: hsl(348, 30%, 75%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
-	--bg-1: hsl(0, 15%, 5%); /* dark buttons when clicked */
-	--bg-2: hsl(0, 15%, 5%); /* dark buttons */
-	--bg-3: hsl(0, 15%, 5%); /* spacing, secondary elements */
-	--bg-4: hsl(0, 15%, 5%); /* main background color */
+	--bg-1: hsl(0, 0%, 5%); /* dark buttons when clicked */
+	--bg-2: hsl(0, 0%, 5%); /* dark buttons */
+	--bg-3: hsl(0, 0%, 5%); /* spacing, secondary elements */
+	--bg-4: hsl(0, 0%, 5%); /* main background color */
 	--hover: hsla(230, 20%, 40%, 0.1); /* channels and buttons when hovered */
 	--active: hsla(220, 20%, 40%, 0.2); /* channels and buttons when clicked or selected */
 	--message-hover: hsla(220, 0%, 0%, 0.1); /* messages when hovered */
@@ -62,7 +62,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://i.pinimg.com/564x/03/d7/e4/03d7e448add3bad530d6097f3bf23f3d.jpg'); /* custom icon url */
+	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
